@@ -26,11 +26,11 @@ A Java-based application that simulates a chess match between two players using 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/concurrent-chess-match-simulator.git
+   git clone https://github.com/trungpham1210/concurrent-Chest-Game.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd concurrent-chess-match-simulator
+   cd Concurrent-Chess-Gatch-simulator
    ```
 3. Build the project using Maven or Gradle:
    ```sh
