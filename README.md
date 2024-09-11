@@ -1,5 +1,3 @@
-Sure! Here's a README for your Concurrent Chess Match Simulator project:
-
 ---
 
 # Concurrent Chess Match Simulator
